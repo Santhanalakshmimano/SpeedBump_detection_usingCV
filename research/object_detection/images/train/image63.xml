@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unmarked</folder>
+	<filename>image63.jpg</filename>
+	<path>E:\speed_detection_project\unmarked\image63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>353</width>
+		<height>627</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unmarked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>227</ymin>
+			<xmax>189</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

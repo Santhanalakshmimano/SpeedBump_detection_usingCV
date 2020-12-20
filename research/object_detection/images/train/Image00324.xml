@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bump</folder>
+	<filename>Image00324.jpg</filename>
+	<path>E:\speed_detection_project\Marked Hump\Bump\Image00324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>315</ymin>
+			<xmax>459</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>
